@@ -1,2 +1,3 @@
-# twitter-stream-reader
-Reader of twitter stream
+# README #
+
+Run main method in MainClass.class for test app
